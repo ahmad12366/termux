@@ -1,0 +1,2 @@
+# termux
+Aku masih bocil 
